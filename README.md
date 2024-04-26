@@ -9,4 +9,7 @@ Source : https://github.com/curvysquare/PPO-and-A2C-for-HULH-poker
 * Model Locations:
   * PPO Model: The trained Proximal Policy Optimization model can be found in the logs2 directory.
   * A2C Model: The trained Advantage Actor-Critic model is located in the log_A2C directory.
+ 
+
+The calculations of hand_strength and hand potential are based on https://github.com/Koda7/Poker-Analytics
 
